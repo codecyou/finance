@@ -1,0 +1,25 @@
+文件夹 PATH 列表
+卷序列号为 0CAA-8F4E
+C:\USERS\PRO\PYCHARMPROJECTS\FINANCE_GUI
+│  README.txt    # 说明文档
+│  
+├─bin    # 执行目录
+│      finance_GUI.py   # 程序执行文件
+│      MainPage.py   # 程序视图
+│      view.py  # 程序视图
+│      
+├─conf  # 配置目录
+│      settings.py  # 程序配置文件
+│      
+├─core  # 程序功能模块目录
+│      create_db.py  # 创建数据库结构模块
+│      excel.py  # 读写excel模块
+│      init_db.py  # 初始化数据库表数据模块
+│      logger.py  # 日志模块
+│      Mytools.py  # 通用方法模块
+│      
+├─db  # 数据库文件目录
+│      finance.db  # 数据库文件
+│      
+└─log  # 日志目录
+        info.log  # 程序日志
