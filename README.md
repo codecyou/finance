@@ -39,6 +39,14 @@ info.log # 程序日志
 
 程序界面使用说明：
 详见项目下：程序使用说明文件夹
+![界面说明](https://github.com/codecyou/finance/blob/main/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E/%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E1%202021-02-11_000314.jpg)
 
+![搜索](https://github.com/codecyou/finance/blob/main/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E/%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E2%E4%B9%8B%E6%90%9C%E7%B4%A2%202021-02-11_001222.jpg)
+
+![修改](https://github.com/codecyou/finance/blob/main/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E/%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E3%E4%B9%8B%E4%BF%AE%E6%94%B9%E5%88%A0%E9%99%A4%E8%AE%B0%E5%BD%95%202021-02-11_002143.jpg)
+
+![新增标签](https://github.com/codecyou/finance/blob/main/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E/%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E4%E4%B9%8B%E6%96%B0%E5%A2%9E%E6%A0%87%E7%AD%BE%202021-02-11_002812.jpg)
+
+![备份与恢复](https://github.com/codecyou/finance/blob/main/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E/%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E5%E4%B9%8B%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D%202021-02-11_003542.jpg)
 
 
