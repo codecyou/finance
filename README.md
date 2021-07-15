@@ -1,6 +1,15 @@
 # finance
 个人记账程序/记账/支出/收入/还款/记录
 
+使用说明:  
+方式一：源码运行  
+1.程序所需第三方包openpyxl  
+安装 pip install openpyxl  
+
+2.运行方式 python finance_GUI.py  
+
+方式二：下载压缩包，直接运行finance_GUI.exe
+
 
 version 1.0.4.1 修复bug  
     update：  
@@ -53,15 +62,11 @@ finance 1.0
 └─log # 日志目录  
 info.log # 程序日志  
 
-使用说明:  
-1.程序所需第三方包openpyxl  
-安装 pip install openpyxl  
 
-2.运行方式 python finance_GUI.py  
 
 注意事项:  
 1.程序输入日期的时候支持 20210211,2021-02-11,2021-2-11,2021.2.11 等输入方式,程序会自动检验日期是否正确并且输出”xxxx-xx-xx”日期格式  
-2.由于tkinter entry控件在中文输入法状态下无法输入小数点,故输入金额时请务必注意切换输入法为英文状态  
+~~2.由于tkinter entry控件在中文输入法状态下无法输入小数点,故输入金额时请务必注意切换输入法为英文状态  ~~（已可以使用）
 
 
 程序界面使用说明：
