@@ -21,7 +21,7 @@ version 1.0.4.1 修复bug
         2. 新增view模块BackupFrame.get_ids_from_db 用于一次性从数据库获取所有id，title 减少后面恢复时一次次数据库查询  
         3. 新增view模块BackupFrame.get_id_from_result 直接从3中查询的result中直接查询id，并且如果支付方式，分类等在数据库中不存在的话会新建，避免原来程序直接置null导致数据丢失  
         
-version 1.0.2 优化代码，修复bug  
+version 1.0.2 优化代码
     update:  
         1. 增加“查询”代码，实现多种条件的复杂查询  
         2. 优化excel导入代码  
